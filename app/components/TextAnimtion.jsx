@@ -74,6 +74,7 @@ export const AnimatedText = ({
                     {char}
                   </motion.span>
                 ))}
+                <span className="inline-block">&nbsp;</span>
               </span>
             ))}
           </span>
