@@ -14,8 +14,8 @@ const Hero = () => {
   return (
     <>
       <Navbar />
-      <div className="h-screen w-screen pt-14 flex flex-col gap-10 items-center justify-center">
-        <div className="absolute -z-10 top-0 left-0 w-screen h-screen">
+      <div className="h-screen pt-14 flex flex-col gap-10 items-center justify-center">
+        <div className="absolute -z-10 top-0 left-0 w-full h-screen">
           <Bg />
         </div>
         <div className="flex flex-col items-center text-primary text-5xl md:text-8xl font-black font-sans">

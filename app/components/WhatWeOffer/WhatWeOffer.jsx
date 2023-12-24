@@ -14,7 +14,7 @@ const WhatWeOffer = () => {
     }
   }, [controls, isInView]);
   return (
-    <div className="h-screen w-screen py-5 px-4 md:px-10 flex md:flex-row flex-col items-center justify-center md:gap-10 lg:gap-52 xl:gap-64 gap-20 ">
+    <div className="h-screen w-full py-5 px-4 md:px-10 flex md:flex-row flex-col items-center justify-center md:gap-10 lg:gap-52 xl:gap-64 gap-20 ">
       <div className="w-full md:w-1/2 flex flex-col md:text-start text-center md:items-start items-center gap-10">
         <motion.div
           initial="hidden"

@@ -40,7 +40,7 @@ const Amenities = () => {
   return (
     <div
       id="amenities"
-      className="min-h-screen w-screen flex flex-col justify-between py-20 px-6 md:px-14">
+      className="min-h-screen flex flex-col justify-between py-20 px-6 md:px-14">
       <motion.div
         ref={ref}
         initial="hidden"

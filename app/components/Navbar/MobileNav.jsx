@@ -36,7 +36,7 @@ function MobileNav({ links }) {
       <AnimatePresence>
         {open && (
           <motion.div
-            className="menu_container absolute top-0 left-0 w-screen h-screen"
+            className="menu_container absolute top-0 left-0 w-full h-screen"
             variants={item}
             initial={{ height: 0, opacity: 0 }}
             animate={{ height: "100vh", opacity: 1 }}
