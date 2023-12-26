@@ -46,10 +46,7 @@ const About = () => {
           }}
           transition={{ duration: 0.3, delay: 0.8 }}
           className="max-w-xl text-center md:text-2xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-          voluptas impedit, tenetur perspiciatis minima cumque quam? Error
-          quisquam, nostrum quis explicabo aliquid, dolor iste rerum veniam
-          consequuntur, sequi repellat voluptatibus.
+          For more than 20 years Lumpinee gym has been training Muay Thai, and specialized in the best gym equipment and training.
         </motion.div>
       </div>
       <div className="ml-32 flex justify-end">

@@ -20,8 +20,8 @@ const Hero = () => {
         </div>
         <div className="flex flex-col items-center text-primary text-5xl md:text-8xl font-black font-sans">
           <AnimatedText
-            el="h2"
-            text={["DELEVERING", "THE FUTURE"]}
+            el="h2ß"
+            text={["LUMPINEE GYM", "For 20+ Years"]}
             className="text-5xl md:text-7xl text-center"
             repeatDelay={10000}
             once

@@ -40,11 +40,7 @@ const Contact = () => {
         className="flex flex-wrap flex-row md:flex-col md:pl-0 pl-5 gap-10 md:gap-5">
         <div>
           <div className="text-primary">Phone</div>
-          <div className="my-2">(123) 456-7890</div>
-        </div>
-        <div>
-          <div className="text-primary">Email</div>
-          <div className="my-2">hello@reallygreatsite.com</div>
+          <div className="my-2">+961 81 112 162</div>
         </div>
         <div>
           <div className="text-primary">Social</div>

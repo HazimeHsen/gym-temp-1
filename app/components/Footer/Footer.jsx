@@ -45,16 +45,12 @@ const Footer = () => {
 
           {/* Club Hours */}
           <div className="w-full max-w-[280px] px-4 mb-8">
-            <h3 className="text-lg font-bold mb-2">CLUB HOURS</h3>
+            <h3 className="text-lg font-bold mb-2">Opening HOURS</h3>
             <p className="my-1">
-              <span className="font-bold">Tuesday to Saturday</span> <br />
-              <span className="text-sm">6:00 am to 10:00 pm</span>
+              <span className="font-bold">Monday to Saturday</span> <br />
+              <span className="text-sm">8:00 am to 10:00 pm</span>
             </p>
-            <p className="my-1">
-              <span className="font-bold">Sunday</span> <br />
-              <span className="text-sm">8:00 am to 9:00 pm</span>
-            </p>
-            <p className="my-1 text-sm">Closed on Mondays</p>
+            <p className="my-1 text-sm">Closed on Sundays</p>
           </div>
 
           {/* Stay Connected */}
