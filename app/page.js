@@ -8,6 +8,7 @@ import Amenities from "./components/Amenities/Amenities";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import Loading from "./loading";
+import Team from "./components/Team/Team";
 
 const Home = () => {
   const [loading, setLoading] = useState(true);
@@ -30,6 +31,7 @@ const Home = () => {
           <About />
           <Amenities />
           <WhatWeOffer />
+          <Team />
           <Contact />
           <Footer />
         </>
