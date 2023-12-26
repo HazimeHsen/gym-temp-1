@@ -7,17 +7,17 @@ const Amenities = () => {
   const data = [
     {
       icon: "/4.gif",
-      title: "Premium Membership",
-      info: "Access to all gym facilities, personalized workout plans, and nutrition guidance. Get the ultimate fitness experience.",
+      title: "Premium Gym Membership",
+      info: "Access to all gym facilities, Get the ultimate fitness experience.",
     },
     {
       icon: "/2.gif",
-      title: "Group Training Classes",
-      info: "Join our high-energy group classes led by certified trainers. Burn calories, build strength, and have fun with a supportive community.",
+      title: "Muay Thai Training Classes",
+      info: "Join our 20 years+ high-energy group classes led by certified trainers. Burn calories, build strength, and have fun with a supportive community.",
     },
     {
       icon: "/1.gif",
-      title: "Nutrition Consultation",
+      title: "1 on 1 private training",
       info: "Customized nutrition plans tailored to your fitness goals. Schedule a consultation with our nutrition experts to optimize your diet.",
     },
     {
