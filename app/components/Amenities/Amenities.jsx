@@ -22,8 +22,8 @@ const Amenities = () => {
     },
     {
       icon: "/3.gif",
-      title: "Special Events and Challenges",
-      info: "Participate in exclusive gym events and challenges. Stay motivated, achieve milestones, and win exciting prizes along your fitness journey.",
+      title: "Aerobics class",
+      info: "Participate in dynamic exercises. Stay motivated, achieve milestones, and win exciting prizes along your fitness journey.",
     },
   ];
 
