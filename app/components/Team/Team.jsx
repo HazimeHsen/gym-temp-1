@@ -86,7 +86,7 @@ const TeamMember = ({ name, role, imageSrc, socialMedia }) => {
         <a>{name}</a>
       </h3>
       <p className="text-gray text-sm">{role}</p>
-      <ul className="flex justify-center mt-4 space-x-4">
+      <ul className="flex justify-center mt-2 space-x-4">
         {socialMedia.map((social, socialIndex) => (
           <li key={socialIndex}>
             <a
