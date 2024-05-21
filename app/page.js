@@ -6,7 +6,8 @@ import Amenities from "./components/Amenities/Amenities";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import Loading from "./loading";
-
+import About from "./components/About/About";
+import Table from "./components/Table/Table";
 
 const Home = () => {
   const [loading, setLoading] = useState(true);
@@ -26,7 +27,9 @@ const Home = () => {
       ) : (
         <>
           <Hero />
+          <About />
           <Amenities />
+          <Table />
           <Contact />
           <Footer />
         </>
